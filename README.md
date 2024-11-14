@@ -1,4 +1,2 @@
-Dataset usef from:
-https://github.com/StephenMilborrow/muct
-https://www.kaggle.com/datasets/debarghamitraroy/casia-webface
-https://www.kaggle.com/datasets/kasikrit/att-database-of-faces
+Citation
+DrSaifKadhim. (2024). DrSaifKadhim/ScaleSyncNet: Initial Release (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.14166010
